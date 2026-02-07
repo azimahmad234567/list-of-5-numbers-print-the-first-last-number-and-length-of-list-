@@ -1,0 +1,1 @@
+# list-of-5-numbers-print-the-first-last-number-and-length-of-list-
